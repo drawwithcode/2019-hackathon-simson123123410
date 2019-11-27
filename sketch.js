@@ -8,7 +8,7 @@ var mySong;
 var myImage;
 
 function preload() {
-  mySong = loadSound('./TG1_bumper.mp3');
+  mySong = loadSound('./TG1_bumper copy.mp3');
   myImage = loadImage('./TG1.png');
   // myImage2 = loadImage('./Earth.jpg');
 }
